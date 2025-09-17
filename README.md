@@ -21,7 +21,7 @@
 
 *1. Clone this repository:*
 <pre>
-git clone https://github.com/your-username/satellite-tracker.git
+git clone https://github.com/stuti-bot/satellite-tracker.git
 cd satellite-tracker </pre>
 
 *2.Install dependencies:*
